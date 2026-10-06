@@ -1,0 +1,9 @@
+/config.php
+/.env
+/.idea/
+/.vscode/
+*.log
+
+/uploads/*
+!/uploads/.gitkeep
+!/uploads/.htaccess
